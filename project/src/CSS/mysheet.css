@@ -1,0 +1,62 @@
+body{
+
+text-align: center;
+margin: 50px 10px;
+padding: 0px;
+background-image: url(glitter.jpg);
+background-attachment: fixed;
+background-size: cover;
+}
+
+table,th,td{
+
+margin-left: 35%;
+border: 4px solid black;
+border-collapse: collapse;
+padding: 35px;
+table-layout: auto;
+background-color: rgb(243, 231, 236);
+font-size: 120%;
+color: rgb(102, 37, 99);
+}
+
+caption{
+
+font-size: 150%;  
+font-weight: bold;  
+color: rgb(252, 245, 250);
+
+}
+
+ul{
+list-style-type: disc;
+}
+
+p{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 200%;
+color: rgb(248, 247, 248);
+
+}
+
+h1{
+font-size: 300%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(247, 241, 244);
+}
+
+h2{
+font-size: 200%;
+color: rgb(231, 99, 174);
+}
+
+label{
+    font-size: 120%;
+    color: rgb(245, 240, 243);
+}
+
+form{
+    background-color: lavenderblush;
+    color: darkmagenta; 
+    display: inline-block
+}
